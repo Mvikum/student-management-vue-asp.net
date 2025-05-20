@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|c:\\users\\vikum\\desktop\\dotnet\\sampleapi\\sampleapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|c:\\users\\vikum\\desktop\\dotnet\\sampleapi\\sampleapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|c:\\users\\vikum\\desktop\\dotnet\\sampleapi\\sampleapi\\dtos\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\dtos\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|c:\\users\\vikum\\desktop\\dotnet\\sampleapi\\sampleapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|c:\\users\\vikum\\desktop\\dotnet\\sampleapi\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|c:\\users\\vikum\\desktop\\dotnet\\sampleapi\\sampleapi\\dtos\\requests\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF44C75-E246-4BC7-96FF-7FF281BA8C9A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\dtos\\requests\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "SampleAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:31:27.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\Services\\StudentService.cs",
+              "RelativeToolTip": "SampleAPI\\Services\\StudentService.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwIUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:20:01.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SampleAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:33:22.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\Services\\IStudentService.cs",
+              "RelativeToolTip": "SampleAPI\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:20:39.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\DTOs\\Responses\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\DTOs\\Responses\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\DTOs\\Responses\\BaseResponse.cs",
+              "RelativeToolTip": "SampleAPI\\DTOs\\Responses\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:23:48.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateStudentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\DTOs\\Requests\\UpdateStudentRequest.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\DTOs\\Requests\\UpdateStudentRequest.cs",
+              "ToolTip": "C:\\Users\\vikum\\Desktop\\dotnet\\SampleAPI\\SampleAPI\\DTOs\\Requests\\UpdateStudentRequest.cs",
+              "RelativeToolTip": "SampleAPI\\DTOs\\Requests\\UpdateStudentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:24:51.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
